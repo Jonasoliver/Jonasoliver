@@ -2,12 +2,6 @@
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   
   # Jonas Miguel | Desenvolvedor de Sotware 🚀
-  
-  <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mercado%20Tech%20Inovador-6C63FF?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Impacto%20Social-FFB300?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
